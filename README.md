@@ -38,20 +38,19 @@ Geral:
 
 ## Imagens do sistema:
     Site:
-<img src="{{ assets('public/images/TalentHub/Site/Pagina_inicial.png') }}" alt="Página Inicial do site"/>
-<img src="../public/images/TalentHub/Site/Pagina_info_vagas.png" alt="Página de informações da vaga"/>
-<img src="../public/images/TalentHub/Site/Pagina_candidatar_1.png" alt="Página de Candidatura à vaga"/>
-<img src="../public/images/TalentHub/Site/Pagina_candidatar_2.png" alt="Página de Candidatura à vaga"/>
-<img src="../public/images/TalentHub/Site/Pagina_candidatar_3.png" alt="Página de Candidatura à vaga"/>
+<img src="public/images/TalentHub/Site/Pagina_inicial.png" class="img-fluid" alt="Página Inicial do site"/>
+<img src="public/images/TalentHub/Site/Pagina_info_vagas.png" class="img-fluid" alt="Página de informações da vaga"/>
+<img src="public/images/TalentHub/Site/Pagina_candidatar_1.png" class="img-fluid" alt="Página de Candidatura à vaga"/>
+<img src="public/images/TalentHub/Site/Pagina_candidatar_2.png" class="img-fluid" alt="Página de Candidatura à vaga"/>
+<img src="public/images/TalentHub/Site/Pagina_candidatar_3.png" class="img-fluid" alt="Página de Candidatura à vaga"/>
     
     Login:
-<img src="../public/images/TalentHub/Admin/Pagina_login.jpg" alt="Página de Login"/>
-<img src="../public/images/TalentHub/Admin/Pagina_cadastrese.jpg" alt="Página de Cadastro"/>
+<img src="public/images/TalentHub/Admin/Pagina_login.jpg" class="img-fluid" alt="Página de Login"/>
+<img src="public/images/TalentHub/Admin/Pagina_cadastrese.jpg" class="img-fluid" alt="Página de Cadastro"/>
 
     Admin:
-<img src="../public/images/TalentHub/Admin/Pagina_criar_vaga.png" alt="Página de Criação de vaga"/>
-<img src="../public/images/TalentHub/Admin/Pagina_listagem_vaga.png" alt="Página de Listagem de vaga"/>
-<img src="../public/images/TalentHub/Admin/Pagina_candidatos.png" alt="Página de Listagem de Candidatos"/>
-<img src="../public/images/TalentHub/Admin/Pagina_informacoes_candidatos.png" alt="Página de Informações de Candidato"/>
-<img src="../public/images/TalentHub/Admin/Pagina_triagem.png" alt="Página de Triagem"/>
-
+<img src="public/images/TalentHub/Admin/Pagina_criar_vaga.png" class="img-fluid" alt="Página de Criação de vaga"/>
+<img src="public/images/TalentHub/Admin/Pagina_listagem_vaga.png" class="img-fluid" alt="Página de Listagem de vaga"/>
+<img src="public/images/TalentHub/Admin/Pagina_candidatos.png" class="img-fluid" alt="Página de Listagem de Candidatos"/>
+<img src="public/images/TalentHub/Admin/Pagina_informacoes_candidatos.png" class="img-fluid" alt="Página de Informações de Candidato"/>
+<img src="public/images/TalentHub/Admin/Pagina_triagem.png" class="img-fluid" alt="Página de Triagem"/>
