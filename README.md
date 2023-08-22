@@ -12,24 +12,24 @@ Após baixar o projeto é necessário realizar algumas etapas.
 ## Funcionalidades
 Site:
 <ul>
-    <li>Página inicial com informações da empresa contratante e listagem de vagas.<li>
-    <li>Página com informações da vaga selecionada.<li>
-    <li>Página de candidatura do aluno à vaga selecionada.<li>
+    <li>Página inicial com informações da empresa contratante e listagem de vagas.</li>
+    <li>Página com informações da vaga selecionada.</li>
+    <li>Página de candidatura do aluno à vaga selecionada.</li>
 </ul>
 
 Admin:
 <ul>
-    <li>Página de cadastro de usuário Admin.<li>
-    <li>Página de login.<li>
-    <li>Página de Criação de vagas.<li>
-    <li>Página de Listagem de vagas.<li>
-    <li>Página de Edição de vagas.<li>
-    <li>Página de Listagem de Candidatos.<li>
-    <li>Página de Informações de um candidato específico.<li>
-    <li>Download de currículo de candidatos.<li>
-    <li>Página de Triagem de candidatos de uma vaga.<li>
-    <li>Exclusão de vagas.<li>
-    <li>Exclusão e eliminação de candidatos.<li>
+    <li>Página de cadastro de usuário Admin.</li>
+    <li>Página de login.</li>
+    <li>Página de Criação de vagas.</li>
+    <li>Página de Listagem de vagas.</li>
+    <li>Página de Edição de vagas.</li>
+    <li>Página de Listagem de Candidatos.</li>
+    <li>Página de Informações de um candidato específico.</li>
+    <li>Download de currículo de candidatos.</li>
+    <li>Página de Triagem de candidatos de uma vaga.</li>
+    <li>Exclusão de vagas.</li>
+    <li>Exclusão e eliminação de candidatos.</li>
 </ul>
 Geral:
 <ul>
@@ -38,7 +38,7 @@ Geral:
 
 ## Imagens do sistema:
     Site:
-<img src="../public/images/TalentHub/Site/Pagina_inicial.png" alt="Página Inicial do site"/>
+<img src="{{ assets('public/images/TalentHub/Site/Pagina_inicial.png') }}" alt="Página Inicial do site"/>
 <img src="../public/images/TalentHub/Site/Pagina_info_vagas.png" alt="Página de informações da vaga"/>
 <img src="../public/images/TalentHub/Site/Pagina_candidatar_1.png" alt="Página de Candidatura à vaga"/>
 <img src="../public/images/TalentHub/Site/Pagina_candidatar_2.png" alt="Página de Candidatura à vaga"/>
